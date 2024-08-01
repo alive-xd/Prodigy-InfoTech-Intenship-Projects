@@ -34,7 +34,7 @@ pip install pillow numpy
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/Image-Encryption-Tool.git
+   git clone https://github.com/alive-xd/Image-Encryption-Tool.git
    ```
 2. **Navigate to the Project Directory:**
    ```sh
