@@ -19,7 +19,7 @@ This repository contains a Python script that implements the Caesar Cipher, a si
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/Caesar-Cipher-Implementation.git
+   git clone https://github.com/alive-xd/Caesar-Cipher-Implementation.git
    ```
 2. **Navigate to the Project Directory:**
    ```sh
