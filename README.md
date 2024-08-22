@@ -28,7 +28,17 @@ Pixel Manipulation involves altering the pixels of an image to encrypt the data 
 - The program applies specified manipulations to encrypt the image data.
 - The encrypted image is saved and displayed.
 
-### 3. Keylogger
+### 3. Password Complexity Checker
+
+**Description:**  
+The Password Complexity Checker evaluates the strength of a password based on various criteria such as length, complexity, and the inclusion of special characters.
+
+**Working:**
+- The user inputs a password.
+- The program assesses the password against defined strength criteria.
+- A complexity score and feedback are provided to help improve the password's security.
+
+### 4.  Keylogger
 
 **Description:**  
 A Keylogger is a program that records every keystroke made by a user, often used for monitoring purposes.
@@ -38,15 +48,7 @@ A Keylogger is a program that records every keystroke made by a user, often used
 - The captured keystrokes are saved to a log file.
 - The log file can be accessed to review the recorded keystrokes.
 
-### 4. Password Complexity Checker
 
-**Description:**  
-The Password Complexity Checker evaluates the strength of a password based on various criteria such as length, complexity, and the inclusion of special characters.
-
-**Working:**
-- The user inputs a password.
-- The program assesses the password against defined strength criteria.
-- A complexity score and feedback are provided to help improve the password's security.
 
 ### 5. Network Packet Analyzer
 
