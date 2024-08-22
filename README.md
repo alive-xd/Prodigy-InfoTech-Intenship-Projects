@@ -56,19 +56,6 @@ A Network Packet Analyzer captures and analyzes network packets to monitor netwo
 - The captured packets are analyzed to extract useful information.
 - The analysis results are displayed, including details like source and destination IP addresses, protocols used, and data payloads.
 
-## Usage
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/Prodigy-InfoTech-Cybersecurity-Internship-Projects.git
-   ```
-2. **Navigate to the Project Directory:**
-   ```sh
-   cd Prodigy-InfoTech-Cybersecurity-Internship-Projects
-   ```
-3. **Run the Projects:**
-   - Follow the instructions in each project directory to run the specific projects.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
