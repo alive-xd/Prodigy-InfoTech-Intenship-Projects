@@ -1,5 +1,7 @@
 
 
+---
+
 # Prodigy InfoTech Cybersecurity Internship Projects
 
 This repository contains a collection of cybersecurity projects developed during my internship at Prodigy InfoTech. The projects include implementations of Caesar Cipher, Pixel Manipulation for Image Encryption, Keylogger, Password Complexity Checker, and Network Packet Analyzer.
@@ -58,7 +60,7 @@ A Network Packet Analyzer captures and analyzes network packets to monitor netwo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project does not currently have a specific license. Please use and contribute to this repository with caution, and be sure to respect all applicable laws and ethical guidelines.
 
 ## Acknowledgements
 
@@ -66,4 +68,4 @@ These projects were developed as part of the Prodigy InfoTech Internship program
 
 ---
 
-Feel free to adjust the details to better match your implementations!
+This update clarifies that the repository does not have a specified license, and advises users to proceed with caution and respect legal and ethical considerations.
