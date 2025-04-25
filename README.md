@@ -2,9 +2,9 @@
 
 ---
 
-# Prodigy InfoTech Cybersecurity Internship Projects
+# Cybersecurity Internship Projects
 
-This repository contains a collection of cybersecurity projects developed during my internship at Prodigy InfoTech. The projects include implementations of Caesar Cipher, Pixel Manipulation for Image Encryption, Keylogger, Password Complexity Checker, and Network Packet Analyzer.
+This repository contains a collection of cybersecurity projects developed during my internship . The projects include implementations of Caesar Cipher, Pixel Manipulation for Image Encryption, Keylogger, Password Complexity Checker, and Network Packet Analyzer.
 
 ## Projects Overview
 
